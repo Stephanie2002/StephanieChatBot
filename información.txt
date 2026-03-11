@@ -1,0 +1,38 @@
+Nombre la dela página web: Reino de Fantasía
+Loguin: Donde la magia cobra vida en cada página (Adéntrate en reinos de dragones, hechiceros y héroes legendarios. Descubre las historias que han cautivado a millones de lectores en todo el mundo.)
+Explorar libros: Libros  destacados (Una selección de las mas emblemáticas del genero fantástico que todo amante de la literatura debe conocer.) 
+
+Libro 1 genero: Épica.  
+EL nombre del viento Autor: Patrick Rothfuss, Descripción: La historia de Kvothe, un músico y mago legendario que narra su propia vida desde sus humildes comienzos.
+
+Libro 2 genero: Alta fantasía.
+El camino de los reyes Autor: Brandon Sanderson, Descripción: En un mundo devastado por tormentas mágicas, varios destinos se entrelazan en una épica sin precedentes.
+
+Libro 3 genero: Fantasía oscura.
+Juegos de tronos Autor: Georgue R.R. Martin, Descripción: Nobles casas luchan por el Trono de Hierro mientras una antigua amenaza despierta en el norte helado.
+
+Libro 4 genero: clásico. 
+El hobbit Autor: J.R.R. Tolkien Descripción: La aventura de Bilbo Bolsón, un hobbit que emprende un viaje inesperado para recuperar un tesoro custodiado por un dragón.
+
+Libro 5 genero: Fantasía épica.
+El Imperio Final Autor: Brandon Sanderson, Descripción: En un mundo de cenizas donde un inmortal emperador gobierna, una banda de ladrones planea lo imposible.
+
+libro 6 genero: Fantasía Épica
+El Ojo del Mundo Autor: Robert Jordan descripción: Tres jóvenes de un pueblo remoto descubren que el destino del mundo descansa sobre sus hombros.
+
+Autores Legendarios: J.R.R. Tolkien
+El padre de la fantasía moderna. Creador de la Tierra Media y sus innumerables maravillas.
+
+George R.R. Martin
+Maestro de la intriga política y la fantasía oscura. Redefinió el género con su realismo brutal.
+
+Brandon Sanderson
+Arquitecto de sistemas de magia únicos y mundos interconectados en el Cosmere.
+
+Patrick Rothfuss
+Poeta de la prosa fantástica. Su narrativa lírica ha cautivado a lectores de todo el mundo.
+
+Contactos: Recibe recomendaciones de libros, novedades del género y contenido exclusivo directamente en tu correo.
+
+
+
