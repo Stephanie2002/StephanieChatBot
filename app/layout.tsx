@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Playfair_Display, Lora } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
+import { Chatbot } from '@/components/chatbot'
 import './globals.css'
 
 const playfair = Playfair_Display({ 
@@ -47,6 +48,7 @@ export default function RootLayout({
     <html lang="es">
       <body className={`${playfair.variable} ${lora.variable} font-serif antialiased`}>
         {children}
+        <Chatbot />
         <Analytics />
       </body>
     </html>
